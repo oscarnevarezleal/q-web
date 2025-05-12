@@ -1,6 +1,6 @@
 # QR Web Interface
 
-A web-based interface for the QR (Runner) CLI tool that maintains PTY processes for streaming input and output directly from the web.
+A web-based interface for the Q CLI tool that maintains PTY processes for streaming input and output directly from the web.
 
 ## Features
 
@@ -11,10 +11,6 @@ A web-based interface for the QR (Runner) CLI tool that maintains PTY processes 
 - Responsive design that works on desktop and mobile devices
 
 ## Installation
-
-```bash
-# Navigate to the web directory
-cd web
 
 # Install dependencies
 yarn install
@@ -39,7 +35,7 @@ The web interface will be available at http://localhost:3000 by default.
 
 The web interface includes a simple authentication system:
 
-- Default credentials: username: `admin`, password: `password123`
+- Default credentials: username: `admin`, password: `2025DEVChallenge`
 - All terminal sessions are protected behind authentication
 - Sessions are managed with secure HTTP-only cookies
 

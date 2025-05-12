@@ -1,319 +1,0 @@
-Script started on Sat May 10 17:09:10 2025
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=0]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004hbash script -q /dev/null q chat[K
-[K[K[1C[A[A[2C[K[27C]697;StartPrompt]697;EndPrompt[1B[K[1B[K[A[A[3Cttsc --watch[?2004l[1B]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[2J[3J[H[[90m5:09:30 PM[0m] Starting compilation in watch mode...
-
-[[90m5:09:31 PM[0m] Found 0 errors. Watching for file changes.
-
-^C
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=130]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004htsc --watch[11Dbash script -q /dev/null q chat[K
-[K[K[A[A[3Csudo dtruss[2Cf -topen q chat 2>&1[1B[K[A[5C[A[5P[23C 2>&1 [K[A[3Cbash sudo dtruss -f -topen q chat 2>&1[1B[K[K[A[A[3Cclear[K[22C]697;StartPrompt]697;EndPrompt[1B[K[1B[K[A[A[8Cexit q   tmuxq chatclear DEBUG=-clear  yarn start[10Dclear     yarn start[10DDEBUG=* yarn start[18Dyarn start        [8D[10Dcat package.json[16Dyarn build            build[10Dnvm use 22[10Dsource ~/.traxporta[19Dyarn build         [9D[10Dsource ~/.traxporta[19Dyarn build         [9D[10Dcd web    [?2004l[1B[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=130]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004hpps [90m-p $(pgrep -f 'q chat')[39m[23D[39ms[39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [39m [22D [90m-p $(pgrep -f 'q chat')[39m[23D[39m-[39mp[39m [39m$[39m([39mp[39mg[39mr[39me[39mp[39m [39m-[39mf[39m [39m'[39mq[39m [39mc[39mh[39ma[39mt[39m'[39m)[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec  PID TTY           TIME CMD
-48303 ttys053    0:00.01 scrip
-48304 ttys054    0:00.12 q cha
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=0]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004hps -p $(pgrep -f 'q chat')[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec  PID TTY           TIME CMD
-48303 ttys053    0:00.01 scrip
-48304 ttys054    0:00.12 q cha
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=0]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004hps -p $(pgrep -f 'q chat')[1C') ') ') ') ') ') n')o')d')e')[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec  PID TTY           TIME CMD
-  722 ??         1:11.80 /Appl
-  742 ??         0:10.64 /Appl
-  762 ??         0:10.76 /Appl
- 3181 ??         0:10.85 /Appl
-14914 ??         0:13.76 Curso
-14915 ??         6:04.91 Curso
-15152 ??         0:06.78 tsser
-15156 ??         1:23.48 tsser
-15173 ??         0:01.90 /Appl
-15555 ??         0:00.72 /Appl
-15580 ??         0:20.22 /Appl
-15592 ??         0:02.54 /Appl
-22666 ??         0:00.02 /User
-42590 ??        10:27.60 /Appl
-49882 ??         0:00.02 /User
-60940 ??         0:00.01 /User
-61310 ??         0:00.02 /User
-62321 ??         0:00.02 /User
-62395 ??         0:00.01 /User
-62940 ??         0:00.15 /User
-65569 ??         0:00.01 /User
-76023 ??         0:01.11 /Appl
-81910 ??         0:00.02 /User
-82568 ??         0:01.18 /Appl
-84388 ??         0:00.02 /User
-84465 ??         0:00.01 /User
-48151 ttys048    0:00.22 node 
-48152 ttys048    0:00.28 /User
-49552 ttys051    0:00.02 q _ i
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=0]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004hcclear[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[3J[H[2J[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=0]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004hps -f | grep script | grep q [K[K[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec  502 49843 49842   0  5:13PM ttys051    0:00.01 q _ inline-shell-completion --buffer ps -f | grep script | grep q
-  502 48303 48152   0  5:09PM ttys053    0:00.01 script -q /dev/null q chat
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=0]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27cclear[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[3J[H[2J[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d88ttsc[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=0]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004h[?2004l
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=130]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004hcclear[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[3J[H[2J[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=0]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004httsc[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=0]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004htsc --watch[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[2J[3J[H[[90m5:16:46 PM[0m] Starting compilation in watch mode...
-
-[[90m5:16:47 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:17:22 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/enhanced-session-manager.ts[0m:[93m157[0m:[93m33[0m - [91merror[0m[90m TS2304: [0mCannot find name 'id'.
-
-[7m157[0m     const s = this.sessions.get(id);
-[7m   [0m [91m                                ~~[0m
-
-[96msrc/enhanced-session-manager.ts[0m:[93m170[0m:[93m7[0m - [91merror[0m[90m TS18048: [0m'session' is possibly 'undefined'.
-
-[7m170[0m       session.pty.write(data);
-[7m   [0m [91m      ~~~~~~~[0m
-
-[[90m5:17:22 PM[0m] Found 2 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:17:33 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/enhanced-session-manager.ts[0m:[93m157[0m:[93m33[0m - [91merror[0m[90m TS2304: [0mCannot find name 'id'.
-
-[7m157[0m     const s = this.sessions.get(id);
-[7m   [0m [91m                                ~~[0m
-
-[96msrc/enhanced-session-manager.ts[0m:[93m170[0m:[93m7[0m - [91merror[0m[90m TS18048: [0m'session' is possibly 'undefined'.
-
-[7m170[0m       session.pty.write(data);
-[7m   [0m [91m      ~~~~~~~[0m
-
-[[90m5:17:33 PM[0m] Found 2 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:17:35 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/enhanced-session-manager.ts[0m:[93m157[0m:[93m33[0m - [91merror[0m[90m TS2304: [0mCannot find name 'id'.
-
-[7m157[0m     const s = this.sessions.get(id);
-[7m   [0m [91m                                ~~[0m
-
-[96msrc/enhanced-session-manager.ts[0m:[93m171[0m:[93m7[0m - [91merror[0m[90m TS18048: [0m'session' is possibly 'undefined'.
-
-[7m171[0m       session.pty.write(data);
-[7m   [0m [91m      ~~~~~~~[0m
-
-[[90m5:17:35 PM[0m] Found 2 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:17:41 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:17:41 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:18:56 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/enhanced-session-manager.ts[0m:[93m46[0m:[93m7[0m - [91merror[0m[90m TS1005: [0m',' expected.
-
-[7m46[0m       {
-[7m  [0m [91m      ~[0m
-
-[96msrc/enhanced-session-manager.ts[0m:[93m54[0m:[93m5[0m - [91merror[0m[90m TS1005: [0m',' expected.
-
-[7m54[0m     );
-[7m  [0m [91m    ~[0m
-
-[[90m5:18:56 PM[0m] Found 2 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:18:59 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/enhanced-session-manager.ts[0m:[93m46[0m:[93m7[0m - [91merror[0m[90m TS1005: [0m',' expected.
-
-[7m46[0m       {
-[7m  [0m [91m      ~[0m
-
-[[90m5:18:59 PM[0m] Found 1 error. Watching for file changes.
-
-[2J[3J[H[[90m5:19:01 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/enhanced-session-manager.ts[0m:[93m46[0m:[93m7[0m - [91merror[0m[90m TS1003: [0mIdentifier expected.
-
-[7m46[0m       {
-[7m  [0m [91m      ~[0m
-
-[[90m5:19:01 PM[0m] Found 1 error. Watching for file changes.
-
-[2J[3J[H[[90m5:19:02 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:19:02 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:19:04 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:19:04 PM[0m] Found 0 errors. Watching for file changes.
-
-^C
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=130]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004hcclear[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[3J[H[2J[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=0]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004hcleartsc --watch[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[2J[3J[H[[90m5:19:11 PM[0m] Starting compilation in watch mode...
-
-[[90m5:19:12 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:19:52 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:19:52 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:19:54 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:19:54 PM[0m] Found 0 errors. Watching for file changes.
-
-zsh: terminated  tsc --watch
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=143]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004htsc --watch[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[2J[3J[H[[90m5:19:59 PM[0m] Starting compilation in watch mode...
-
-[[90m5:20:00 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:20:52 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:20:52 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:20:54 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:20:54 PM[0m] Found 0 errors. Watching for file changes.
-
-zsh: terminated  tsc --watch
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=143]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004h[?2004l
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=130]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004htsc --watch[?2004l
-]697;OSCLock=298a8e4b830e42d8811c9cd03d7b3d93]697;PreExec[2J[3J[H[[90m5:23:12 PM[0m] Starting compilation in watch mode...
-
-[[90m5:23:12 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:24:25 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:24:25 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:24:27 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:24:27 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:26:16 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:26:16 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:30:45 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:30:46 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:30:49 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:30:49 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:30:57 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:30:57 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m5:30:59 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m5:30:59 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m12:09:21 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m12:09:21 PM[0m] Found 0 errors. Watching for file changes.
-
-[2J[3J[H[[90m12:15:11 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/server.ts[0m:[93m7[0m:[93m26[0m - [91merror[0m[90m TS2307: [0mCannot find module 'cookie-parser' or its corresponding type declarations.
-
-[7m7[0m import cookieParser from 'cookie-parser';
-[7m [0m [91m                         ~~~~~~~~~~~~~~~[0m
-
-[[90m12:15:11 PM[0m] Found 1 error. Watching for file changes.
-
-[2J[3J[H[[90m12:15:23 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/server.ts[0m:[93m7[0m:[93m26[0m - [91merror[0m[90m TS2307: [0mCannot find module 'cookie-parser' or its corresponding type declarations.
-
-[7m7[0m import cookieParser from 'cookie-parser';
-[7m [0m [91m                         ~~~~~~~~~~~~~~~[0m
-
-[[90m12:15:23 PM[0m] Found 1 error. Watching for file changes.
-
-[2J[3J[H[[90m12:15:34 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/enhanced-session-manager.ts[0m:[93m59[0m:[93m7[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'problem' does not exist in type 'Session'.
-
-[7m59[0m       problem,
-[7m  [0m [91m      ~~~~~~~[0m
-
-[96msrc/server.ts[0m:[93m7[0m:[93m26[0m - [91merror[0m[90m TS7016: [0mCould not find a declaration file for module 'cookie-parser'. '/Users/oscarnevarez/playground/qr/web/node_modules/cookie-parser/index.js' implicitly has an 'any' type.
-  Try `npm i --save-dev @types/cookie-parser` if it exists or add a new declaration (.d.ts) file containing `declare module 'cookie-parser';`
-
-[7m7[0m import cookieParser from 'cookie-parser';
-[7m [0m [91m                         ~~~~~~~~~~~~~~~[0m
-
-[96msrc/session-manager.ts[0m:[93m48[0m:[93m7[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'problem' does not exist in type 'Session'.
-
-[7m48[0m       problem,
-[7m  [0m [91m      ~~~~~~~[0m
-
-[[90m12:15:34 PM[0m] Found 3 errors. Watching for file changes.
-
-[2J[3J[H[[90m12:17:36 PM[0m] File change detected. Starting incremental compilation...
-
-[91merror[0m[90m TS2688: [0mCannot find type definition file for 'cookie-parser'.
-  The file is in the program because:
-    Entry point for implicit type library 'cookie-parser'
-
-[[90m12:17:36 PM[0m] Found 1 error. Watching for file changes.
-
-[2J[3J[H[[90m12:17:36 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/enhanced-session-manager.ts[0m:[93m59[0m:[93m7[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'problem' does not exist in type 'Session'.
-
-[7m59[0m       problem,
-[7m  [0m [91m      ~~~~~~~[0m
-
-[96msrc/session-manager.ts[0m:[93m48[0m:[93m7[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'problem' does not exist in type 'Session'.
-
-[7m48[0m       problem,
-[7m  [0m [91m      ~~~~~~~[0m
-
-[[90m12:17:36 PM[0m] Found 2 errors. Watching for file changes.
-
-[2J[3J[H[[90m12:19:20 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/session-manager.ts[0m:[93m48[0m:[93m7[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'problem' does not exist in type 'Session'.
-
-[7m48[0m       problem,
-[7m  [0m [91m      ~~~~~~~[0m
-
-[[90m12:19:20 PM[0m] Found 1 error. Watching for file changes.
-
-[2J[3J[H[[90m12:20:04 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m12:20:04 PM[0m] Found 0 errors. Watching for file changes.
-
-zsh: terminated  tsc --watch
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=143]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004h
-[7m48[0m       problem,
-[7m  [0m [91m      ~~~~~~~[0m
-
-[[90m12:17:36 PM[0m] Found 2 errors. Watching for file changes.
-
-[2J[3J[H[[90m12:19:20 PM[0m] File change detected. Starting incremental compilation...
-
-[96msrc/session-manager.ts[0m:[93m48[0m:[93m7[0m - [91merror[0m[90m TS2353: [0mObject literal may only specify known properties, and 'problem' does not exist in type 'Session'.
-
-[7m48[0m       problem,
-[7m  [0m [91m      ~~~~~~~[0m
-
-[[90m12:19:20 PM[0m] Found 1 error. Watching for file changes.
-
-[2J[3J[H[[90m12:20:04 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m12:20:04 PM[0m] Found 0 errors. Watching for file changes.
-
-zsh: terminated  tsc --watch
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=143]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004h[91m      ~~~~~~~[0m
-
-[[90m12:19:20 PM[0m] Found 1 error. Watching for file changes.
-
-[2J[3J[H[[90m12:20:04 PM[0m] File change detected. Starting incremental compilation...
-
-[[90m12:20:04 PM[0m] Found 0 errors. Watching for file changes.
-
-zsh: terminated  tsc --watch
-[1m[7m%[27m[1m[0m                               ]697;OSCUnlock=298a8e4b830e42d8811c9cd03d7b3d93]697;Dir=/Users/oscarnevarez/playground/qr/web]697;Shell=zsh]697;ShellPath=/bin/zsh]697;PID=47838]697;ExitCode=143]697;TTY=/dev/ttys051]697;Log=]697;ZshAutosuggestionColor=]697;FigAutosuggestionColor=fg=8]697;User=oscarnevarez[0m[27m[24m[J]697;StartPromptoscarnevarez@TXP-LTONAVAREZ web % ]697;EndPrompt]697;NewCmd=298a8e4b830e42d8811c9cd03d7b3d93[K[27C]697;StartPrompt]697;EndPrompt[27D[?2004h
