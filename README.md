@@ -12,6 +12,7 @@ A web-based interface for the Q CLI tool that maintains PTY processes for stream
 
 ## Installation
 
+```
 # Install dependencies
 yarn install
 
