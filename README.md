@@ -2,6 +2,12 @@
 
 A web-based interface for the Q CLI tool that maintains PTY processes for streaming input and output directly from the web.
 
+![image](https://github.com/user-attachments/assets/279ac68f-c3c8-431d-abb7-a69c2eabac3d)
+
+![image](https://github.com/user-attachments/assets/412f7366-011c-4486-bb41-c20f619c90e9)
+
+
+
 ## Features
 
 - Web-based interface for running terminal sessions
